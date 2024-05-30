@@ -1,5 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
 body {
   background: linear-gradient(to bottom, #336699 0%, #33ccff 100%);
   background-repeat: no-repeat;
   height: 100vh;
+  font-family: "Open Sans", sans-serif;
+}
+p {
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
 }
