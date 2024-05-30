@@ -10,7 +10,7 @@ const GetWeather = ({ location = "paris" }) => {
         method: "GET",
         headers: {
           "X-RapidAPI-Key":
-            "a1ca148b57mshf880b088484cb3dp18b476jsn72b65d1f33f6",
+            "YOUR KEY HERE",
           "X-RapidAPI-Host": "yahoo-weather5.p.rapidapi.com",
         },
       };
